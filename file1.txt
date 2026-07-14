@@ -1,1 +1,2 @@
 New feature added
+This is txt file in git
